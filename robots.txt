@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-top-espresso-machine-under-300-for-home/sitemap.xml
